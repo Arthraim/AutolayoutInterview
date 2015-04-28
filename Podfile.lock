@@ -1,0 +1,13 @@
+PODS:
+  - Classy (0.2.4)
+  - Masonry (0.6.1)
+
+DEPENDENCIES:
+  - Classy (~> 0.2.4)
+  - Masonry (~> 0.6.1)
+
+SPEC CHECKSUMS:
+  Classy: 8d39a27d36865856c8cf21cba5d58fa9252037d9
+  Masonry: 4972309f2f134de9dd312f4dc4a21359b50e6caa
+
+COCOAPODS: 0.36.1
